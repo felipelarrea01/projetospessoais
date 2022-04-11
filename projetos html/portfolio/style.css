@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(23, 46, 24);
+    color: white;
+    background-image: url(../portfolio/wp.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.header {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: rgb(0, 0, 0);;
+    border: 10px solid rgb(104, 20, 138)
+}
+
+.img img {
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    margin-left: 580px;
+    border: 15px solid rgb(157, 20, 211);
+    
+}
+
+.geral {
+    background-color: rgb(0, 0, 0);;
+    height: 250px;
+    margin: 1rem 5rem;
+    padding-top: 5px;
+    text-align: center;
+    line-height: 25px;
+    font-size: 22px;
+    border: 10px solid rgb(104, 20, 138);
+}
+
+.front {
+    background-color: rgb(0, 0, 0);
+   height: 250px;
+    margin: 1rem 5rem;
+    width: 40%;
+    text-align: center;
+    line-height: 45px;
+    border: 10px solid rgb(104, 20, 138)
+}
+
+.front img{
+    height: 100px;
+    margin: 30px;
+}
+
+.back {
+    background-color: rgb(0, 0, 0);
+    height: 249px;
+    margin: 1rem 5rem;
+    width: 40%;
+    float: right;
+    margin-top: -285px;
+    text-align: center;
+    line-height: 5px;
+    border: 10px solid rgb(104, 20, 138)
+}
+
+.back img {
+    height: 100px;
+    margin: 30px;
+}
+
+div{
+    border-radius: 5%;
+}
